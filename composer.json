@@ -1,5 +1,5 @@
 {
-    "name": "phpmentors/pageflower-bundle",
+    "name": "scruffycoderofficial/pageflower-bundle",
     "type": "symfony-bundle",
     "description": "A pageflow engine for Symfony applications",
     "keywords": ["symfony", "flow", "pageflow", "stateful", "conversation"],
