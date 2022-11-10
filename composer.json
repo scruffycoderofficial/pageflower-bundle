@@ -24,7 +24,7 @@
         "symfony/dependency-injection": "~2.8|~3.0|~4.0|~5.4",
         "symfony/form": "~2.8|~3.0|~4.0|~5.4",
         "symfony/framework-bundle": "~2.8|~3.0|~4.0|~5.4",
-        "symfony/http-foundation": "~2.8|~3.0|~4.0v",
+        "symfony/http-foundation": "~2.8|~3.0|~4.0|~5.4",
         "symfony/http-kernel": "~2.8|~3.0|~4.0|~5.4",
         "symfony/routing": "~2.8|~3.0|~4.0|~5.4",
         "symfony/security": "~2.8|~3.0|~4.0|~5.4",
