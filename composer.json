@@ -27,7 +27,11 @@
         "symfony/http-foundation": "~2.8|~3.0|~4.0|~5.4",
         "symfony/http-kernel": "~2.8|~3.0|~4.0|~5.4",
         "symfony/routing": "~2.8|~3.0|~4.0|~5.4",
-        "symfony/security": "~2.8|~3.0|~4.0|~5.4",
+        "symfony/security": "~2.8|~3.0|~4.0",
+        "symfony/security-core": "^5.4|^6.0",
+        "symfony/security-csrf": "^4.4|^5.0|^6.0",
+        "symfony/security-guard": "^5.3",
+        "symfony/security-http": "^5.4|^6.0"
         "symfony/validator": "~2.8|~3.0|~4.0|~5.4"
     },
     "require-dev": {
